@@ -1,0 +1,13 @@
+h1 Welcome to prestige travels Blog
+ <h2> List of Articles</h2> 
+ <ul>
+    <li>
+        <article>
+            <h3> THE BIG FIVE</h3>
+            <p>The big five animals are originally the animals species that are difficult 
+                to hunt like the lion,leopard,rhino,elephant and african buffalo.
+        
+            </p>
+         <img src="big five.jpg" alt="The big five">
+         <a href="http://www.lakenakuru.com "></a>
+         <h3>Date of publish</h3>
